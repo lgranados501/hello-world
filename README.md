@@ -1,2 +1,4 @@
 # hello-world
-new repo
+New repo in github
+
+I love :coffe: :pizza: and :cars:
