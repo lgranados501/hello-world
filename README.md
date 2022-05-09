@@ -1,4 +1,4 @@
 # hello-world
 New repo in github
 
-I love :coffe: :pizza: and :cars:
+I love :coffee: :pizza: and :car:
